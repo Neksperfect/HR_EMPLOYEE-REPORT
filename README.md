@@ -6,6 +6,7 @@
 ## Introduction
 
 This is an sql and power BI project on HR employee data having 22000 rows from the year 2000 to 2020 of a named organization. This project is to analyze and derive insights to answer crutial questions and help the stakeholders in appropriate decisions regarding employees.
+You can interact with the report {here](https://app.powerbi.com/groups/me/reports/e50bfcd3-ef12-4e5c-8f1a-dd10cc39df14/ReportSection?experience=power-bi)
 
 ## Problem Statements
 
